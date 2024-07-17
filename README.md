@@ -17,4 +17,5 @@ Performance Metrics
 - Root Mean Squared Error (RMSE): Achieved an RMSE of $3.85, a measure of the model's prediction accuracy over a 10-year dataset.
 
 Summary
+
 This project demonstrates the application of LSTM neural networks in forecasting stock prices, utilizing both historical data and technical indicators. By leveraging sequential data capabilities of LSTMs and incorporating relevant financial indicators, the model achieves competitive accuracy in predicting future stock prices.
