@@ -13,8 +13,8 @@ Features
 
 Performance Metrics
 
-- Mean Absolute Error (MAE): Achieved an MAE of $3.22, indicating the average absolute difference between predicted and actual stock prices.
-- Root Mean Squared Error (RMSE): Achieved an RMSE of $3.85, a measure of the model's prediction accuracy over a 10-year dataset.
+- Mean Absolute Error (MAE): Achieved an MAE of 3.22, indicating the average absolute difference between predicted and actual stock prices.
+- Root Mean Squared Error (RMSE): Achieved an RMSE of 3.85, a measure of the model's prediction accuracy over a 10-year dataset.
 
 Summary
 
